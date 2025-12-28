@@ -1,4 +1,4 @@
-# Frontend Technical Assessment — Project README
+# Vector Shift — Project README
 
 This repository contains a small React + React Flow frontend and a lightweight FastAPI backend used for a pipeline/node-based assessment. This README explains how to run the project, test the POST parsing endpoint, and describes the code architecture so you can find and modify pieces quickly.
 
